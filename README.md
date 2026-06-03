@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm János Szujó
 
-<!--
-**Szujo-Janos/Szujo-Janos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA-focused digital professional and web/app developer with experience in manual testing, API testing, UI automation, SQL/data validation, bug reporting, Hungarian AI language evaluation, and practical software development.
 
-Here are some ideas to get you started:
+My background includes building web-based applications, game prototypes, mobile applications, internal business tools, and QA-focused portfolio projects. I combine hands-on development experience with a strong testing mindset, which helps me understand software both from the user’s and the developer’s side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub portfolio focuses on practical, reviewable examples: test strategy, API testing, Playwright automation, accessibility checks, SQL validation, LLM output evaluation, and application prototypes.
+
+## Main areas
+
+- Manual and functional QA
+- API testing with Python and Pytest
+- UI automation with Playwright
+- SQL/data validation
+- Accessibility testing
+- Hungarian AI output evaluation
+- Bug reporting and QA documentation
+- Web application development
+- Mobile application prototyping
+- Game development and interactive projects
+- Technical documentation
+
+## Featured projects
+
+- Hungarian LLM Evaluation Toolkit
+- API Testing Pytest Demo
+- Playwright UI Testing Demo
+- Accessibility Testing Playwright Demo
+- SQL Data Validation QA Demo
+- PhytoDoc – Plant Disease Detection App Prototype
